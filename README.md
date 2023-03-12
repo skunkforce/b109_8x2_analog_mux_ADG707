@@ -1,5 +1,5 @@
-# edgy_board number b123
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip XXXX via interfaces YYYY. 
+# edgy_board number b109
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip ADG707 an 8x2 analog mux. 
 
 ![](/board/board.png)
 
